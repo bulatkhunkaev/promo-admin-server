@@ -1,0 +1,10 @@
+{
+  "name": "SuperBrand",
+  "channel": "https://t.me/superbrandchannel",
+  "avatar": "https://example.com/logo.png",
+  "category": "Одежда",
+  "email": "brand@example.com",
+  "username": "superbrand",
+  "password": "securepass123",
+  "confirm_password": "securepass123"
+}
